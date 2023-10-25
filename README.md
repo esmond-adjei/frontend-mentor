@@ -1,2 +1,2 @@
-# frontend-master
-A repository for all frontend master projects
+# frontend-mentor
+A repository for all frontend mentor projects
